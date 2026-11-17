@@ -1,169 +1,244 @@
-# ⚡ FF Manager — Fútbol Frontier Manager
 
-**Tu club. Tus decisiones. Tu historia.**
+# ⚡ FF Manager – Juego Web de Gestión Futbolística
 
-![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-2563EB?style=flat-square&labelColor=0F172A)
-![Género](https://img.shields.io/badge/Género-Gestión%20futbolística-0284C7?style=flat-square&labelColor=0F172A)
-![Plataforma](https://img.shields.io/badge/Plataforma-Navegador-2563EB?style=flat-square&labelColor=0F172A)
+![Estado](https://img.shields.io/badge/Estado-En_desarrollo_activo-blue)
+![Categoría](https://img.shields.io/badge/Categoría-Videojuego_/_Gestión-purple)
+![Stack](https://img.shields.io/badge/Stack-React_|_TypeScript_|_Vite-blue)
+![Plataforma](https://img.shields.io/badge/Plataforma-Web-green)
 
-**FF Manager (Fútbol Frontier Manager)** es un videojuego de gestión futbolística para navegador, inspirado en el universo de *Inazuma Eleven*.
+**FF Manager (Fútbol Frontier Manager)** es un videojuego web gratuito de gestión futbolística inspirado en el universo de *Inazuma Eleven*.
 
-Crea tu propio club, reúne a tus jugadores favoritos y construye un equipo capaz de enfrentarse a cualquier rival. Gestiona los fichajes, desarrolla tu plantilla y prepara cada encuentro para alcanzar la cima del fútbol.
+El proyecto permite asumir el papel de entrenador y director de un club, gestionar una plantilla de personajes, realizar fichajes, entrenar jugadores, configurar tácticas y competir en partidos con supertécnicas.
 
-Una experiencia que combina **estrategia, gestión deportiva, progresión y partidos interactivos con supertécnicas**.
+### 🎮 [¡Jugar gratis a FF Manager!](https://playffmanager.com/)
 
----
-
-## ⚽ Construye tu propio camino
-
-En FF Manager tendrás el control de las decisiones que definen el futuro de tu club.
-
-No basta con reunir a los mejores futbolistas: tendrás que administrar tus recursos, mantener una plantilla competitiva y encontrar la estrategia adecuada para cada encuentro.
-
-### ✨ Características principales
-
-| Área | ¿Qué puedes hacer? |
-|---|---|
-| 🛡️ **Tu club** | Personaliza el nombre, el escudo y el entrenador. |
-| 👥 **Plantilla** | Organiza a tus futbolistas y gestiona el equipo. |
-| 🔎 **Fichajes y ojeo** | Explora el mercado y descubre jugadores para reforzar tu club. |
-| 🧠 **Tácticas** | Configura formaciones, alineaciones y estrategias. |
-| 💪 **Entrenamiento** | Mejora las habilidades y la progresión de tus jugadores. |
-| ⚡ **Partidos** | Toma decisiones, realiza sustituciones y utiliza supertécnicas. |
-| 💰 **Economía** | Gestiona el presupuesto, los ingresos y los recursos. |
-| 💾 **Guardado** | Conserva tus partidas y crea copias de seguridad. |
+No requiere instalación ni registro. Se puede jugar directamente desde un navegador moderno.
 
 ---
 
-## 🏆 Dos modos, diferentes desafíos
+## 🎯 Propósito del Proyecto
 
-Elige cómo quieres vivir tu aventura. Cada modo ofrece una forma distinta de desarrollar tu equipo y alcanzar tus objetivos.
+El objetivo de FF Manager es combinar la gestión de un club de fútbol con las características de *Inazuma Eleven*, ofreciendo una experiencia donde las decisiones del jugador influyen en la evolución del equipo.
 
-### 📖 Modo Historia
+El proyecto se centra en tres aspectos:
 
-**Una aventura a través de las sagas de Inazuma Eleven.**
+- **Gestión deportiva:** fichajes, economía, plantillas, alineaciones y tácticas.
+- **Progresión:** entrenamiento, mejora de jugadores, competiciones y desarrollo del club.
+- **Simulación:** partidos con estadísticas, elementos, supertécnicas y decisiones estratégicas.
 
-Avanza por una campaña de enfrentamientos inspirados en la serie, supera equipos rivales y consigue recompensas para seguir fortaleciendo tu plantilla.
+FF Manager es un proyecto personal en desarrollo continuo.
 
-Cada nuevo desafío pondrá a prueba la evolución de tus jugadores y las decisiones que tomes durante los partidos.
+## ⚽ Funcionalidades Principales
 
-### 🏟️ Modo Carrera
+### 👥 Gestión de plantillas
 
-**De las divisiones inferiores a la élite del fútbol.**
+- Catálogo de **5.130 personajes**.
+- Más de **195 equipos**.
+- Búsqueda y filtrado de jugadores.
+- Mercado de fichajes y gestión del presupuesto.
+- Organización del once inicial.
+- Configuración de formaciones y posiciones.
+- Comparación de estadísticas y valoración de jugadores.
 
-Dirige tu club durante múltiples temporadas en una competición organizada en **cinco divisiones**.
+### 🏋️ Entrenamiento y progresión
 
-Lucha por los ascensos, evita los descensos y construye una trayectoria que quedará reflejada en las estadísticas y el historial de tu equipo.
+- Entrenamiento y mejora de atributos.
+- Gestión de energía y recuperación.
+- Progresión de nivel.
+- Mejoras de las instalaciones del club.
 
-### Comparativa de modos
+### 🧠 Tácticas y estrategia
 
-| | Modo Historia | Modo Carrera |
-|---|---|---|
-| **Enfoque** | Campaña y desafíos | Gestión a largo plazo |
-| **Progresión** | Sagas y enfrentamientos | Temporadas y divisiones |
-| **Objetivo** | Superar los desafíos | Alcanzar la máxima división |
-| **Experiencia** | Aventura y evolución | Competición y legado |
+- Selección de formaciones.
+- Mentalidad ofensiva o defensiva.
+- Configuración de presión, ritmo y pases.
+- Familiaridad táctica.
+- Preparación del equipo antes de los encuentros.
 
----
+### ⚡ Simulador de partidos
 
-## 🎮 Dentro del juego
+- Simulación de encuentros de fútbol.
+- Estadísticas individuales y de equipo.
+- Duelos con porcentajes de éxito.
+- Supertécnicas de tiro, regate, defensa y portero.
+- Afinidades elementales.
+- Gestión de PE y PT.
+- Retransmisión de acciones y estadísticas.
+- Visualización táctica del campo.
 
-FF Manager combina la planificación fuera del campo con las decisiones que se toman durante los encuentros.
+El motor de partidos continúa evolucionando para mejorar el posicionamiento, la coherencia de las jugadas y el equilibrio de los resultados.
 
-**Antes del partido**, prepara tu alineación, selecciona la formación y adapta tu estrategia al rival.
+### 🏆 Modos de juego
 
-**Durante el partido**, participa en los momentos decisivos, utiliza supertécnicas y realiza cambios para intentar inclinar el resultado a tu favor.
+**📖 Modo Historia**
 
-**Después del partido**, revisa el resultado, desarrolla a tus jugadores y continúa construyendo el futuro de tu club.
+Campaña narrativa compuesta por seis rutas o capítulos, con partidos y rivales inspirados en el universo de *Inazuma Eleven*.
 
----
+**🏅 Modo Carrera**
 
-## 📸 Capturas del juego
+Modo orientado a la gestión de un club, la evolución de su plantilla y la competición en un sistema de cinco divisiones.
 
-Una interfaz de estilo oscuro, con detalles azules y una ambientación inspirada en el fútbol y *Inazuma Eleven*.
+### 🌍 Internacionalización
 
-Las capturas reales se incorporarán a esta sección antes de la presentación pública.
+La interfaz está disponible en:
 
-**Pantallas previstas para la galería:**
-
-- Menú principal.
-- Gestión del club y plantilla.
-- Formaciones y tácticas.
-- Partidos interactivos.
-
-*Se utilizarán capturas reales y actualizadas del juego.*
-
----
-
-## 🚧 Estado del desarrollo
-
-**FF Manager está actualmente en desarrollo.**
-
-Los modos Historia y Carrera ya son jugables, y el proyecto se encuentra en preparación para su primera versión pública.
-
-El trabajo actual se centra en la estabilidad, las mejoras visuales y la revisión de las principales funcionalidades.
-
-| Apartado | Situación |
-|---|---|
-| Modo Historia | Jugable |
-| Modo Carrera | Jugable |
-| Gestión de plantilla y fichajes | Implementada |
-| Partidos interactivos | Implementados |
-| Guardado y transferencia de partidas | Implementados |
-| Primera versión pública | En preparación |
-
-**Todavía no se ha anunciado una fecha de lanzamiento.**
+- 🇪🇸 Español
+- 🇬🇧 Inglés
+- 🇯🇵 Japonés
 
 ---
 
-## 🔮 El futuro de FF Manager
+## 📐 Arquitectura del Sistema
 
-La primera versión será el punto de partida de un proyecto que seguirá evolucionando.
+FF Manager utiliza una arquitectura basada en componentes, separando la interfaz, la gestión del estado, la lógica del juego y los datos.
 
-Entre las ideas previstas o en estudio se encuentran:
+```mermaid
+graph TD
+    A["Interfaz de usuario - React"] --> B["Componentes y pantallas"]
+    B --> C["Hooks y Context"]
+    C --> D["Motor de simulación"]
+    C --> E["Lógica de dominio"]
+    D --> F["Datos de personajes y equipos"]
+    E --> F
+    C --> G["Guardado local"]
+    B --> H["Sistema de traducciones"]
+```
 
-- **Modo Draft:** nuevas posibilidades para incorporar jugadores.
-- **Eventos de Carrera:** situaciones que aporten variedad a las temporadas.
-- **Nuevos contenidos:** desafíos y opciones adicionales de gestión.
-- **Mejoras de equilibrio:** ajustes basados en las pruebas y las opiniones de los jugadores.
+Esta organización facilita el mantenimiento y la evolución de las mecánicas sin concentrar toda la lógica en los componentes visuales.
 
-> Estas funciones todavía no están implementadas. Su contenido y disponibilidad pueden cambiar durante el desarrollo.
+## 💻 Implementación Técnica
+
+### 🎨 Interfaz de Usuario
+
+- **React 19:** construcción de pantallas y componentes reutilizables.
+- **TypeScript:** tipado estático y organización del código.
+- **Tailwind CSS v4:** diseño responsive y sistema de estilos.
+- **Inter y Rajdhani:** tipografías de la interfaz.
+- **Lucide React:** iconografía.
+
+### ⚙️ Lógica y Simulación
+
+- Motor del juego desarrollado en TypeScript.
+- Cálculo de atributos, estadísticas y bonificaciones.
+- Sistemas de economía, entrenamiento y progresión.
+- Gestión de formaciones, tácticas y alineaciones.
+- Resolución de acciones y duelos durante los partidos.
+
+### 💾 Persistencia
+
+El progreso se almacena localmente en el navegador mediante `localStorage`.
+
+El juego permite **exportar e importar partidas**, facilitando la conservación y transferencia manual del progreso.
+
+No requiere crear una cuenta.
+
+### 🧪 Calidad y Herramientas
+
+- **Vitest:** pruebas automatizadas.
+- **TypeScript:** comprobación de tipos.
+- **oxlint:** análisis estático.
+- **Git y GitHub:** control de versiones.
+- **Vite:** desarrollo y compilación.
+
+## 🛠️ Stack Tecnológico
+
+| Categoría | Herramientas / Tecnologías |
+|-----------|-----------------------------|
+| Lenguaje | TypeScript |
+| Frontend | React 19 |
+| Build Tool | Vite |
+| Estilos | Tailwind CSS v4 |
+| Iconografía | Lucide React, Bootstrap Icons |
+| Tipografías | Inter, Rajdhani |
+| Estado | React Hooks y Context |
+| Persistencia | localStorage |
+| Internacionalización | Sistema i18n propio |
+| Testing | Vitest |
+| Calidad | TypeScript, oxlint |
+| Control de versiones | Git, GitHub |
+| Plataforma | Navegador web |
 
 ---
 
-## 💾 Tus partidas, tu progreso
+## 📸 Galería del Juego
 
-FF Manager guarda el progreso localmente en el navegador.
+Capturas de las diferentes pantallas y funcionalidades de FF Manager.
 
-Puedes mantener diferentes partidas y utilizar las herramientas de **exportación e importación** para crear copias de seguridad o trasladar tu progreso.
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/menu-principal.png" width="350" alt="Menú principal" /><br>
+      <sub>Menú principal</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/plantilla.png" width="350" alt="Gestión de plantilla" /><br>
+      <sub>Gestión de plantilla</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/fichajes.png" width="350" alt="Mercado de fichajes" /><br>
+      <sub>Mercado de fichajes</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/partido.png" width="350" alt="Simulador de partidos" /><br>
+      <sub>Simulador de partidos</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/tacticas.png" width="350" alt="Tácticas" /><br>
+      <sub>Tácticas</sub>
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/entrenamiento.png" width="350" alt="Entrenamiento" /><br>
+      <sub>Entrenamiento</sub>
+    </td>
+  </tr>
+</table>
 
-**Importante:** las partidas no se sincronizan automáticamente entre dispositivos. Se recomienda exportar una copia de seguridad periódicamente.
+> **Nota:** sustituye las rutas anteriores por las capturas reales del juego antes de publicar.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🚀 Cómo Jugar
 
-FF Manager está desarrollado como una aplicación web utilizando:
+1. Accede a **[playffmanager.com](https://playffmanager.com/)**.
+2. Selecciona el Modo Historia o el Modo Carrera.
+3. Crea tu equipo.
+4. Gestiona jugadores, fichajes y presupuesto.
+5. Configura tu alineación y tácticas.
+6. Entrena y mejora la plantilla.
+7. Compite en partidos y progresa.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+## 🔄 Estado del Proyecto
 
-El juego está diseñado para funcionar en navegadores modernos, tanto en ordenador como en dispositivos móviles.
+FF Manager es un proyecto personal publicado y en desarrollo activo.
 
-El código fuente se mantiene en un repositorio privado durante el desarrollo.
+Actualmente se trabaja en mejorar la experiencia de usuario y perfeccionar los sistemas de simulación, economía, entrenamiento y equilibrio.
 
 ---
 
-## ⚖️ Aviso legal y créditos
+## ⚖️ Aviso Legal
 
-**FF Manager es un proyecto independiente creado por fans**, inspirado en el universo de *Inazuma Eleven*.
+**FF Manager es un proyecto fan-made, gratuito y no oficial**, inspirado en *Inazuma Eleven*.
 
-No es un producto oficial ni está afiliado, patrocinado o respaldado por LEVEL-5 ni por los titulares de los derechos de la franquicia.
+No está afiliado, patrocinado ni respaldado por **LEVEL-5** ni por los titulares de las marcas y personajes originales.
 
-*Inazuma Eleven*, sus personajes, nombres, marcas y demás elementos originales pertenecen a sus respectivos propietarios.
+*Inazuma Eleven*, sus personajes y demás elementos protegidos pertenecen a sus respectivos titulares.
 
-Los recursos de terceros conservan sus correspondientes derechos y licencias.
+---
 
-*Un proyecto hecho por fans, para fans.*
+## 👤 Contacto
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/camu-al/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:camudeveloper@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="35" alt="Email" />
+  </a>
+  <a href="https://playffmanager.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FF_Manager-Jugar_gratis-2784B9?style=flat" height="35" alt="Jugar a FF Manager" />
+  </a>
+</div>
