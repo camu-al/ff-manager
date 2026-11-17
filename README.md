@@ -10,9 +10,13 @@
 
 El proyecto permite asumir el papel de entrenador y director de un club, gestionar una plantilla de personajes, realizar fichajes, entrenar jugadores, configurar tácticas y competir en partidos con supertécnicas.
 
-### 🎮 [¡Jugar gratis a FF Manager!](https://playffmanager.com/)
+### 🎮 [¡Haz clic aquí para jugar gratis a FF Manager!](https://playffmanager.com/)
 
-No requiere instalación ni registro. Se puede jugar directamente desde un navegador moderno.
+Juega directamente desde tu navegador, sin instalaciones ni registro.
+
+> 💾 **Importante sobre las partidas:** el progreso se guarda localmente en el navegador y dispositivo donde juegas. No se sincroniza automáticamente entre navegadores o dispositivos.
+>
+> Para conservar tu progreso o trasladarlo a otro dispositivo, utiliza las opciones **Exportar partida** e **Importar partida** del juego. Te recomendamos hacer copias de seguridad, ya que borrar los datos del sitio o utilizar el modo incógnito puede provocar la pérdida del progreso.
 
 ---
 
